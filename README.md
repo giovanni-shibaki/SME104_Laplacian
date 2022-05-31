@@ -12,4 +12,6 @@ Trabalho 1 da matéria de SME104 - Cálculo Numérico, 2022.1
 - Lucas Keiti Anbo Mihara
   - 11796472
 
+# Gráfico de Manhattan gerado
 
+![Manhattan HeatMap](./Manhatan2.png)
